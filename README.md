@@ -1,2 +1,2 @@
-#Cpractice
->C语言练习
+#C
+My solution to the course of C.
